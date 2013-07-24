@@ -20,4 +20,3 @@ rebase
     git rebase -i myfeature
 
 
-see what happens
